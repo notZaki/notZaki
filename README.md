@@ -1,1 +1,1 @@
-![my github stats](https://github-readme-stats.vercel.app/api?username=notZaki&show_icons=true)
+![my github stats](https://github-stats-extended.vercel.app/api?username=notZaki&show_icons=true)
